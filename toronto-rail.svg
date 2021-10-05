@@ -25,16 +25,17 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.83343548"
-     inkscape:cx="517.73654"
-     inkscape:cy="797.30227"
+     inkscape:cx="1489.6174"
+     inkscape:cy="1020.4749"
      inkscape:window-width="3770"
      inkscape:window-height="2121"
      inkscape:window-x="70"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer33"
      inkscape:snap-intersection-paths="true"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:snap-page="true" />
   <defs
      id="defs3992">
     <inkscape:path-effect
@@ -662,7 +663,19 @@
        id="rect140661" />
   </defs>
   <g
-     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer33"
+     inkscape:label="Background">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.50795;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:2.75398, 2.75398;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect49502"
+       width="591.88263"
+       height="417.88263"
+       x="2.117362"
+       y="2.117362" />
+  </g>
+  <g
+     inkscape:label="Lake"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
@@ -673,33 +686,35 @@
        sodipodi:nodetypes="ccccccccccccccc"
        inkscape:path-effect="#path-effect8177"
        inkscape:original-d="m 596.53775,255.67628 c -4.07321,0 -145.69867,-0.0331 -145.69867,-0.0331 l -37.57216,37.09778 H 125.36046 L 38.908296,332.11092 H -2.1345342 v 28.08671 H 87.028493 l 52.867457,-26.98112 h 370.79798 v 57.03394 h 15.15529 v -54.90326 h 70.69168 v -79.8237" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="5.5588837"
-       y="17.483055"
-       id="text6008"><tspan
-         sodipodi:role="line"
-         id="tspan6006"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Cambria;-inkscape-font-specification:Cambria;fill:#464646;fill-opacity:1;stroke-width:0.264583"
-         x="5.5588837"
-         y="17.483055">Toronto</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.27331px;line-height:1.25;font-family:sans-serif;display:inline;fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.0980202"
-       x="5.7577147"
-       y="23.750267"
-       id="text6008-3"><tspan
-         sodipodi:role="line"
-         id="tspan6006-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.27331px;font-family:Cambria;-inkscape-font-specification:Cambria;fill:#464646;fill-opacity:1;stroke-width:0.0980202"
-         x="5.7577147"
-         y="23.750267">Integrated Train Map</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer32"
-     inkscape:label="Legend" />
+     inkscape:label="Legend"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;display:inline;fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="6.6615233"
+       y="18.748726"
+       id="text6008"><tspan
+         sodipodi:role="line"
+         id="tspan6006"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Cambria;-inkscape-font-specification:Cambria;fill:#464646;fill-opacity:1;stroke-width:0.264583"
+         x="6.6615233"
+         y="18.748726">Toronto</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.27331px;line-height:1.25;font-family:sans-serif;display:inline;fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.0980202"
+       x="6.8603539"
+       y="25.015938"
+       id="text6008-3"><tspan
+         sodipodi:role="line"
+         id="tspan6006-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.27331px;font-family:Cambria;-inkscape-font-specification:Cambria;fill:#464646;fill-opacity:1;stroke-width:0.0980202"
+         x="6.8603539"
+         y="25.015938">Integrated Train Map</tspan></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer26"
